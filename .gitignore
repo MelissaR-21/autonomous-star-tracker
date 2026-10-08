@@ -1,0 +1,18 @@
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Large raw test images (keep smaller test photos tracked, ignore heavy bulk files)
+*.raw
+*.fit
+*.fits
